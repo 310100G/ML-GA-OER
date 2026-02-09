@@ -1,12 +1,6 @@
-# ML-GA-OER
-
 # Genetic Algorithm-Guided Machine Learning for Accelerated Screening and Experimental Validation of Plasma-Assisted Ni-Fe-Based OER Electrocatalysts
 
-[![Status](https://img.shields.io/badge/Status-Manuscript_Under_Review-yellow.svg)](https://github.com/your-username/ML-GA-OER)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Framework](https://img.shields.io/badge/Framework-ML--GA-green.svg)]()
-
-> **Note:** This is the official repository for the paper *Genetic Algorithm-Guided Machine Learning for Accelerated Screening and Experimental Validation of Plasma-Assisted Ni-Fe-Based OER Electrocatalysts*. 
+> **Note:** This is the repository for the paper *Genetic Algorithm-Guided Machine Learning for Accelerated Screening and Experimental Validation of Plasma-Assisted Ni-Fe-Based OER Electrocatalysts*. 
 >
 > 🚀 **The source code, processed datasets, and pre-trained models will be made publicly available upon the formal acceptance of the manuscript.**
 
