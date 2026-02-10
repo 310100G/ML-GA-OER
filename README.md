@@ -30,8 +30,8 @@ The proposed catalyst design framework is based on an **active learning closed l
 *(Figure 1. Framework to discover Ni-Fe-based electrocatalysts for OER)*
 
 ### The Four-Step Workflow:
-1. **Data Collection**: Aggregating and cleaning OER dataset from published literature (e.g., substrates, precursor compositions, and electrodeposition parameters).
-2. **Machine Learning**: Training and optimizing surrogate models (e.g., XGBoost) to predict overpotentials ($\eta$) based on synthesis descriptors.
+1. **Data Collection**: Aggregating and cleaning OER dataset from published literature.
+2. **Machine Learning**: Training and optimizing surrogate models to predict overpotentials ($\eta$) based on synthesis descriptors.
 3. **Genetic Algorithm**: Using a dual-mode GA (**Exploration** & **Exploitation**) to generate virtual catalyst candidates and screen for optimal synthesis conditions.
 4. **Experimental Validation**: Synthesizing the top-ranked candidates via **plasma-assisted electrodeposition** to verify performance and provide feedback to the model.
 
