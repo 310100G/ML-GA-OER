@@ -43,8 +43,6 @@ We are committed to open science. The following assets will be released:
 
 - [ ] **Source Code**: Complete Python implementation of the Dual-Mode GA and ML training scripts.
 - [ ] **Datasets**: The cleaned and preprocessed OER dataset used for model training.
-- [ ] **Pre-trained Models**: Serialized models ready for inference.
-- [ ] **Tutorials**: Jupyter notebooks demonstrating how to use the framework for new catalyst discovery.
 
 ---
 
