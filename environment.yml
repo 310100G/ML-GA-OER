@@ -1,4 +1,4 @@
-name: ga-ml-oer
+name: ML-GA-OER
 channels:
   - conda-forge
   - defaults
