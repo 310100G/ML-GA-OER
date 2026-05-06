@@ -1,0 +1,17 @@
+name: ga-ml-oer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.26.3
+  - pandas=2.2.3
+  - scikit-learn=1.5.2
+  - joblib=1.4.2
+  - matplotlib=3.9.2
+  - seaborn=0.13.2
+  - jupyterlab          
+  - pip
+  - pip:
+      - xgboost==2.1.3
+      - deap==1.4.3
